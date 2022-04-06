@@ -3,6 +3,6 @@ export const JWT_KEY: string = "3f45bd8c951d8f909c67f81e9a286ac6ac3f30b0b8ad0b61
 
 export const cloud_name: string = "donwlbz6n";
 
-export const api_key: string = "361223377571554";
+export const api_key: string = "";
 
-export const api_secret: string = "6BlCihQbvk4sIIupIrV_nKWZZTc";
+export const api_secret: string = "";
